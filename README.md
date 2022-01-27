@@ -1,2 +1,2 @@
-# pihole
+# Pihole
 My personal pihole stuff.
