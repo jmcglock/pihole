@@ -1,0 +1,42 @@
+#  _                   _            _   
+# [_] _ _ _  ___  ___ | | ___  ___ | |__
+# | || ' ' |/ | '/ . || |/ . \/ | '| / /
+# | ||_|_|_|\_|_.\_. ||_|\___/\_|_.|_\_\
+#[__|            [___|                  
+# These are some commonly whitelisted entries that I always add as wildcards. 
+soundcloud.com
+s.youtube.com
+xboxlive.com
+bing.com
+pinimg.com
+fonts.googleapis.com
+windows.com
+visualstudio.com
+microsoft.com
+windowsupdate.com
+office.net
+megaphone.fm
+scdn.co
+spotify.com
+nbcsports.com
+nbcu.demdex.net
+peacocktv.com
+discordapp.com
+apple.com
+github.com
+fonts.gstatic.com
+ubuntu.com
+ghcr.io
+dell.com
+espncdn.com
+d3ward.github.io 
+gitlab.com
+github.io
+gamepass.com
+jetbrains.space
+www.nerdfonts.com
+tokens.playmakerservices.com
+officecdn.microsoft.com.edgesuite.net 
+nexusrules.officeapps.live.com 
+lencr.org
+xboxlive.com
