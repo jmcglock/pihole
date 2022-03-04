@@ -3,46 +3,46 @@
 # | || ' ' |/ | '/ . || |/ . \/ | '| / /
 # | ||_|_|_|\_|_.\_. ||_|\___/\_|_.|_\_\
 #[__|            [___|                  
-# These are some commonly blacklisted entries that I always add as wildcards. 
-0.0.0.0 adservice.google.com
-0.0.0.0 ads.google.com
-0.0.0.0 widgets.pinterest.com
-0.0.0.0 trk.pinterest.com
-0.0.0.0 analytics.pinterest.com
-0.0.0.0 ads-dev.pinterest.com
-0.0.0.0 log.pinterest.com
-0.0.0.0 ads.pinterest.com
-0.0.0.0 disqus.com
-0.0.0.0 stats.gc.apple.com
-0.0.0.0 iadsdk.apple.com
-0.0.0.0 xcal.tv
-0.0.0.0 disquscdn.com
-0.0.0.0 lgtvcommon.com
-0.0.0.0 api.thetake.com
-0.0.0.0 lgtvsdp.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 adservice.google.de
-0.0.0.0 ade.googlesyndication.com
-0.0.0.0 id.google.de
-0.0.0.0 federatedml-pa.googleapis.com
-0.0.0.0 ad.lgappstv.com
-0.0.0.0 ibis.lgappstv.com
-0.0.0.0 jp.rdx2.lgtvsdp.com
-0.0.0.0 jp.lgtvsdp.com
-0.0.0.0 jp.info.lgsmartad.com
-0.0.0.0 lgad.cjpowercast.com
-0.0.0.0 smartclip.com
-0.0.0.0 smartclip.net
-0.0.0.0 smartshare.lgtvsdp.com
-0.0.0.0 us.ad.lgsmartad.com
-0.0.0.0 us.ibs.lgappstv.com
-0.0.0.0 us.info.lgsmartad.com
-0.0.0.0 us.lgtvsdp.com
-0.0.0.0 us.rdx2.lgtvsdp.com
-0.0.0.0 yumenetworks.com
-0.0.0.0 aic-ngfts.lge.com
-0.0.0.0 www.ueiwsp.com
+# These are some commonly blacklisted entries that I always add. 
+adservice.google.com
+ads.google.com
+widgets.pinterest.com
+trk.pinterest.com
+analytics.pinterest.com
+ads-dev.pinterest.com
+log.pinterest.com
+ads.pinterest.com
+disqus.com
+stats.gc.apple.com
+iadsdk.apple.com
+xcal.tv
+disquscdn.com
+lgtvcommon.com
+api.thetake.com
+lgtvsdp.com
+www.googleadservices.com
+googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+ad.doubleclick.net
+ssl.google-analytics.com
+adservice.google.de
+ade.googlesyndication.com
+id.google.de
+federatedml-pa.googleapis.com
+ad.lgappstv.com
+ibis.lgappstv.com
+jp.rdx2.lgtvsdp.com
+jp.lgtvsdp.com
+jp.info.lgsmartad.com
+lgad.cjpowercast.com
+smartclip.com
+smartclip.net
+smartshare.lgtvsdp.com
+us.ad.lgsmartad.com
+us.ibs.lgappstv.com
+us.info.lgsmartad.com
+us.lgtvsdp.com
+us.rdx2.lgtvsdp.com
+yumenetworks.com
+aic-ngfts.lge.com
+www.ueiwsp.com
