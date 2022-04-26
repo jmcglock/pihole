@@ -1,0 +1,15 @@
+# Stop the service:
+sudo service unbound stop
+
+# Remove unbound package:
+sudo apt remove unbound
+
+# Remove configs and properties:
+sudo rm -r /var/lib/unbound/
+sudo rm -r /etc/unbound/
+
+# Remove dependencies that are not needed anymore:
+sudo apt autoremove
+
+# Clean up:
+sudo apt autoclean
