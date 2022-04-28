@@ -1,7 +1,7 @@
 sudo apt install unbound
 
-nano /etc/unbound/unbound.conf.d/pi-hole.conf
-
+sudo nano /etc/unbound/unbound.conf.d/pi-hole.conf
+________________________________________________________________________________
 server:
     # If no logfile is specified, syslog is used
     # logfile: "/var/log/unbound/unbound.log"
@@ -68,7 +68,7 @@ server:
     private-address: 10.0.0.0/8
     private-address: fd00::/8
     private-address: fe80::/10
-
+________________________________________________________________________________
 sudo service unbound restart
 
 #specify 127.0.0.1#5335 as the Custom DNS (IPv4) in pihole
