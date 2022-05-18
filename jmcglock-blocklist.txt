@@ -45,4 +45,4 @@ us.lgtvsdp.com
 us.rdx2.lgtvsdp.com
 yumenetworks.com
 aic-ngfts.lge.com
-www.ueiwsp.com
+ueiwsp.com
