@@ -6,11 +6,9 @@
 # These are some commonly whitelisted entries that I always add as wildcards. 
 apple.com
 bing.com
-d3ward.github.io
 dell.com
 discordapp.com
 espncdn.com
-fonts.googleapis.com
 fonts.gstatic.com
 gamepass.com
 ghcr.io
@@ -40,3 +38,4 @@ windows.com
 windowsupdate.com
 nerdfonts.com
 xboxlive.com
+ui.com
