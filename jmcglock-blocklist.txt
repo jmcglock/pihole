@@ -46,3 +46,4 @@ api.thetake.com
 ueiwsp.com
 xcal.tv
 yumenetworks.com
+advice-ads.s3.amazonaws.com
