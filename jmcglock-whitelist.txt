@@ -16,8 +16,13 @@ github.com
 github.io
 gitlab.com
 fonts.gstatic.com
-hulu.com
-hulustream.com
+cws-hulu.conviva.com
+ads-e-darwin.hulustream.com
+hulu.hb-api.omtrdc.net
+vortex.hulu.com
+ads-v-darwin.hulustream.com
+ads-a-darwin.hulustream.com
+doppler.hulu.com
 instagram.com
 jetbrains.space
 megaphone.fm
