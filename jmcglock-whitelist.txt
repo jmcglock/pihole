@@ -6,8 +6,10 @@
 # These are some commonly whitelisted entries that I always add as wildcards. 
 apple.com
 bing.com
+brightcove.com
 cloudflare.com
 dell.com
+demdex.net
 discordapp.com
 espncdn.com
 gamepass.com
@@ -15,6 +17,7 @@ ghcr.io
 github.com
 github.io
 gitlab.com
+googleapis.com
 fonts.gstatic.com
 cws-hulu.conviva.com
 ads-e-darwin.hulustream.com
@@ -27,16 +30,22 @@ instagram.com
 jetbrains.space
 megaphone.fm
 microsoft.com
+msn.com
 nbcsports.com
 nerdfonts.com
+omtrdc.net
 peacocktv.com
 pinimg.com
 tokens.playmakerservices.com
 scdn.co
+simplelogin.io
 soundcloud.com
 spotify.com
+tidal.com
+typekit.net
 ubuntu.com
 ui.com
+urbanairship.com
 visualstudio.com
 windows.com
 windowsupdate.com
