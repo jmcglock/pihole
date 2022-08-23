@@ -4,8 +4,6 @@
 # | ||_|_|_|\_|_.\_. ||_|\___/\_|_.|_\_\
 #[__|            [___|                  
 # These are some commonly whitelisted entries that I always add as wildcards. 
-apple.com
-bing.com
 brightcove.com
 cloudflare.com
 dell.com
@@ -22,13 +20,12 @@ fonts.gstatic.com
 cws-hulu.conviva.com
 ads-e-darwin.hulustream.com
 hulu.hb-api.omtrdc.net
+instagram.com
+graph.facebook.com
 vortex.hulu.com
 ads-v-darwin.hulustream.com
 ads-a-darwin.hulustream.com
 doppler.hulu.com
-instagram.com
-jetbrains.space
-megaphone.fm
 microsoft.com
 msn.com
 nbcsports.com
@@ -36,8 +33,6 @@ nerdfonts.com
 omtrdc.net
 peacocktv.com
 pinimg.com
-tokens.playmakerservices.com
-scdn.co
 simplelogin.io
 soundcloud.com
 spotify.com
