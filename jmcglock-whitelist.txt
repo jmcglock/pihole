@@ -4,6 +4,7 @@
 # | ||_|_|_|\_|_.\_. ||_|\___/\_|_.|_\_\
 #[__|            [___|                  
 # These are some commonly whitelisted entries that I always add as wildcards. 
+apple.com
 brightcove.com
 cloudflare.com
 dell.com
