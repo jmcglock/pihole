@@ -1,7 +1,7 @@
 #  _                   _            _   
 # [_] _ _ _  ___  ___ | | ___  ___ | |__
-# | || ' ' |/ | '/ . || |/ . \/ | '| / /
-# | ||_|_|_|\_|_.\_. ||_|\___/\_|_.|_\_\
+# | || ' ' | | ' . || | . \ | '|  
+# | ||_|_|_|\_|_.\_. ||_|\___\_|_.|_\_\
 #[__|            [___|                  
 # These are some commonly blacklisted entries that I always add. 
 api.ad.xiaomi.com
@@ -58,14 +58,14 @@ googleadservices.com
 static.media.net 
 media.net 
 adservetx.media.net
-doubleclick.net/ 
-ad.doubleclick.net/
+doubleclick.net 
+ad.doubleclick.net
 static.doubleclick.net
 m.doubleclick.net
 mediavisor.doubleclick.net
 fastclick.com
 fastclick.net
-media.fastclick.net/
+media.fastclick.net
 cdn.fastclick.net
 adtago.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
@@ -81,9 +81,9 @@ hotjar.com
 static.hotjar.com
 api-hotjar.com
 hotjar-analytics.com
-mouseflow.com/ 
+mouseflow.com 
 a.mouseflow.com
-freshmarketer.com/
+freshmarketer.com
 luckyorange.com
 cdn.luckyorange.com 
 w1.luckyorange.com
