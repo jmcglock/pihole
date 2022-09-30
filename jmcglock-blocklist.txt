@@ -7,6 +7,10 @@
 pagead2.googlesyndication.com
 ads.google.com
 adservice.google.com
+amazonclix.com
+freshmarketer.com
+cdn.luckyorange.com
+w1.luckyorange.com
 googleadservices.com
 media.net
 doubleclick.net
