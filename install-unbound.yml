@@ -1,4 +1,4 @@
-sudo apt install unbound
+sudo apt install unbound -y
 
 sudo nano /etc/unbound/unbound.conf.d/pi-hole.conf
 ________________________________________________________________________________
