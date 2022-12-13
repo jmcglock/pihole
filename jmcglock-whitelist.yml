@@ -1,0 +1,52 @@
+#  _                   _            _   
+# [_] _ _ _  ___  ___ | | ___  ___ | |__
+# | || ' ' |/ | '/ . || |/ . \/ | '| / /
+# | ||_|_|_|\_|_.\_. ||_|\___/\_|_.|_\_\
+#[__|            [___|                  
+# These are some commonly whitelisted entries that I always add as wildcards.
+apple.com
+bing.com
+cloudflare.com
+dell.com
+demdex.net
+discordapp.com
+espncdn.com
+graph.facebook.com
+gamepass.com
+ghcr.io
+github.com
+github.io
+gitlab.com
+googleapis.com
+fonts.gstatic.com
+doppler.hulu.com
+darwin.hulustream.com
+vortex.hulu.com
+instagram.com
+intuit.com
+live.com
+megaphone.fm
+microsoft.com
+msn.com
+nbcsports.com
+nerdfonts.com
+nextdns.io
+omtrdc.net
+hulu.hb-api.omtrdc.net
+peacocktv.com
+pinimg.com
+samsung.com
+scdn.co
+shentel.net
+simplelogin.io
+soundcloud.com
+spotify.com
+typekit.net
+ubuntu.com
+ui.com
+urbanairship.com
+visualstudio.com
+windows.com
+windowsupdate.com
+xboxlive.com
+s.youtube.com
