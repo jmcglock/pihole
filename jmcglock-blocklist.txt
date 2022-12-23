@@ -1,118 +1,118 @@
-0.0.0.0 api.ad.xiaomi.com
-0.0.0.0 app.chat.xiaomi.net
-0.0.0.0 data.mistat.xiaomi.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.india.xiaomi.com
-0.0.0.0 data.mistat.rus.xiaomi.com
-0.0.0.0 sdkconfig.ad.xiaomi.com
-0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 globalapi.ad.xiaomi.com
-0.0.0.0 www.cdn.ad.xiaomi.com
-0.0.0.0 tracking.miui.com
-0.0.0.0 sa.api.intl.miui.com
-0.0.0.0 tracking.miui.com
-0.0.0.0 tracking.intl.miui.com
-0.0.0.0 tracking.india.miui.com
-0.0.0.0 tracking.rus.miui.com
-0.0.0.0 metrics.data.hicloud.com
-0.0.0.0 metrics1.data.hicloud.com
-0.0.0.0 metrics2.data.hicloud.com
-0.0.0.0 metrics3.data.hicloud.com
-0.0.0.0 metrics4.data.hicloud.com
-0.0.0.0 metrics5.data.hicloud.com 
-0.0.0.0 logservice.hicloud.com
-0.0.0.0 logservice1.hicloud.com
-0.0.0.0 metrics-dra.dt.hicloud.com
-0.0.0.0 logbak.hicloud.com
-0.0.0.0 analytics.oneplus.cn
-0.0.0.0 click.oneplus.cn
-0.0.0.0 click.oneplus.com
-0.0.0.0 open.oneplus.net
-0.0.0.0 ad.samsungadhub.com
-0.0.0.0 samsungadhub.com
-0.0.0.0 samsungads.com
-0.0.0.0 smetrics.samsung.com
-0.0.0.0 nmetrics.samsung.com
-0.0.0.0 samsung-com.112.2o7.net
-0.0.0.0 business.samsungusa.com
-0.0.0.0 analytics.samsungknox.com
-0.0.0.0 bigdata.ssp.samsung.com
-0.0.0.0 analytics-api.samsunghealthcn.com
-0.0.0.0 config.samsungads.com
-0.0.0.0 metrics.apple.com
-0.0.0.0 securemetrics.apple.com
-0.0.0.0 supportmetrics.apple.com
-0.0.0.0 metrics.icloud.com
-0.0.0.0 metrics.mzstatic.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 ads.google.com
-0.0.0.0 adservice.google.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 googleadservices.com
-0.0.0.0 static.media.net 
-0.0.0.0 media.net 
-0.0.0.0 adservetx.media.net
-0.0.0.0 doubleclick.net
-0.0.0.0 fastclick.com
-0.0.0.0 fastclick.net
-0.0.0.0 media.fastclick.net
-0.0.0.0 cdn.fastclick.net
-0.0.0.0 adtago.s3.amazonaws.com
-0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 advice-ads.s3.amazonaws.com
-0.0.0.0 affiliationjs.s3.amazonaws.com
-0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 amazonaax.com
-0.0.0.0 amazonclix.com
-0.0.0.0 assoc-amazon.com
-0.0.0.0 google-analytics.com
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 hotjar.com 
-0.0.0.0 mouseflow.com 
-0.0.0.0 a.mouseflow.com
-0.0.0.0 freshmarketer.com
-0.0.0.0 luckyorange.com
-0.0.0.0 cdn.luckyorange.com 
-0.0.0.0 w1.luckyorange.com
-0.0.0.0 upload.luckyorange.net 
-0.0.0.0 cs.luckyorange.net
-0.0.0.0 settings.luckyorange.net
-0.0.0.0 stats.wp.com
-0.0.0.0 notify.bugsnag.com 
-0.0.0.0 sessions.bugsnag.com
-0.0.0.0 api.bugsnag.com
-0.0.0.0 app.bugsnag.com
-0.0.0.0 browser.sentry-cdn.com
-0.0.0.0 app.getsentry.com
-0.0.0.0 pixel.facebook.com
-0.0.0.0 analytics.facebook.com 
-0.0.0.0 ads.facebook.com
-0.0.0.0 an.facebook.com
-0.0.0.0 ads-twitter.com 
-0.0.0.0 static.ads-twitter.com
-0.0.0.0 ads-api.twitter.com
-0.0.0.0 advertising.twitter.com
-0.0.0.0 ads.linkedin.com
-0.0.0.0 analytics.pointdrive.linkedin.com
-0.0.0.0 ads.pinterest.com 
-0.0.0.0 log.pinterest.com 
-0.0.0.0 ads-dev.pinterest.com
-0.0.0.0 analytics.pinterest.com 
-0.0.0.0 trk.pinterest.com
-0.0.0.0 widgets.pinterest.com
-0.0.0.0 ads.reddit.com 
-0.0.0.0 d.reddit.com 
-0.0.0.0 rereddit.com
-0.0.0.0 events.redditmedia.com
-0.0.0.0 ads.youtube.com 
-0.0.0.0 youtube.cleverads.vn
-0.0.0.0 tiktok.com
-0.0.0.0 tiktokcdn.com
-0.0.0.0 ads.yahoo.com
-0.0.0.0 global.adserver.yahoo.com 
-0.0.0.0 analytics.yahoo.com
-0.0.0.0 ads.yap.yahoo.com
-0.0.0.0 yandex.com 
-0.0.0.0 yandexadexchange.net
-0.0.0.0 yandex.net
-0.0.0.0 yandex.ru
+api.ad.xiaomi.com
+app.chat.xiaomi.net
+data.mistat.xiaomi.com
+data.mistat.intl.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+sdkconfig.ad.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+globalapi.ad.xiaomi.com
+www.cdn.ad.xiaomi.com
+tracking.miui.com
+sa.api.intl.miui.com
+tracking.miui.com
+tracking.intl.miui.com
+tracking.india.miui.com
+tracking.rus.miui.com
+metrics.data.hicloud.com
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics3.data.hicloud.com
+metrics4.data.hicloud.com
+metrics5.data.hicloud.com 
+logservice.hicloud.com
+logservice1.hicloud.com
+metrics-dra.dt.hicloud.com
+logbak.hicloud.com
+analytics.oneplus.cn
+click.oneplus.cn
+click.oneplus.com
+open.oneplus.net
+ad.samsungadhub.com
+samsungadhub.com
+samsungads.com
+smetrics.samsung.com
+nmetrics.samsung.com
+samsung-com.112.2o7.net
+business.samsungusa.com
+analytics.samsungknox.com
+bigdata.ssp.samsung.com
+analytics-api.samsunghealthcn.com
+config.samsungads.com
+metrics.apple.com
+securemetrics.apple.com
+supportmetrics.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
+pagead2.googlesyndication.com
+ads.google.com
+adservice.google.com
+pagead2.googleadservices.com
+googleadservices.com
+static.media.net 
+media.net 
+adservetx.media.net
+doubleclick.net
+fastclick.com
+fastclick.net
+media.fastclick.net
+cdn.fastclick.net
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+amazonaax.com
+amazonclix.com
+assoc-amazon.com
+google-analytics.com
+ssl.google-analytics.com
+hotjar.com 
+mouseflow.com 
+a.mouseflow.com
+freshmarketer.com
+luckyorange.com
+cdn.luckyorange.com 
+w1.luckyorange.com
+upload.luckyorange.net 
+cs.luckyorange.net
+settings.luckyorange.net
+stats.wp.com
+notify.bugsnag.com 
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+app.getsentry.com
+pixel.facebook.com
+analytics.facebook.com 
+ads.facebook.com
+an.facebook.com
+ads-twitter.com 
+static.ads-twitter.com
+ads-api.twitter.com
+advertising.twitter.com
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+ads.pinterest.com 
+log.pinterest.com 
+ads-dev.pinterest.com
+analytics.pinterest.com 
+trk.pinterest.com
+widgets.pinterest.com
+ads.reddit.com 
+d.reddit.com 
+rereddit.com
+events.redditmedia.com
+ads.youtube.com 
+youtube.cleverads.vn
+tiktok.com
+tiktokcdn.com
+ads.yahoo.com
+global.adserver.yahoo.com 
+analytics.yahoo.com
+ads.yap.yahoo.com
+yandex.com 
+yandexadexchange.net
+yandex.net
+yandex.ru
