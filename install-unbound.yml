@@ -1,5 +1,4 @@
 sudo apt install unbound -y
-
 sudo nano /etc/unbound/unbound.conf.d/pi-hole.conf
 ________________________________________________________________________________
 server:
@@ -70,5 +69,7 @@ server:
     private-address: fe80::/10
 ________________________________________________________________________________
 sudo service unbound restart
+sudo systemctl enable unbound
+sudo systemctl status unbound
 
 #specify 127.0.0.1#5335 as the Custom DNS (IPv4) in pihole

@@ -66,7 +66,6 @@ pixel.facebook.com
 an.facebook.com
 static.ads-twitter.com
 ads-api.twitter.com
-ads.twitter.com
 ads.linkedin.com
 analytics.pointdrive.linkedin.com
 ads.pinterest.com
@@ -83,6 +82,7 @@ ads-sg.tiktok.com
 analytics-sg.tiktok.com
 business-api.tiktok.com
 ads.tiktok.com
+log.byteoversea.com
 ads.yahoo.com
 analytics.yahoo.com
 geo.yahoo.com
@@ -130,10 +130,17 @@ logbak.hicloud.com
 click.oneplus.cn
 open.oneplus.net
 samsungads.com
+smetrics.samsung.com
+nmetrics.samsung.com
 samsung-com.112.2o7.net
 analytics-api.samsunghealthcn.com
 advertising.apple.com
 tr.iadsdk.apple.com
-smetrics.samsung.com
+iadsdk.apple.com
 metrics.icloud.com
-analytics.twitter.com
+metrics.apple.com
+metrics.mzstatic.com
+api-adservices.apple.com
+books-analytics-events.apple.com
+weather-analytics-events.apple.com
+notes-analytics-events.apple.com
