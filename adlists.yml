@@ -1,7 +1,8 @@
-#I only use these lists in my pihole.
-https://dbl.oisd.nl/
-https://dbl.oisd.nl/nsfw/
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt
-https://raw.githubusercontent.com/jmcglock/pihole/main/blocklist.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt
+# I only use these lists on my pihole server
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+https://raw.githubusercontent.com/jmcglock/pihole/main/dns-blocklist.txt
+https://big.oisd.nl/
+https://nsfw.oisd.nl/
+# allowlist
+https://raw.githubusercontent.com/jmcglock/pihole/main/dns-allowlist.txt
