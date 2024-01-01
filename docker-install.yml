@@ -1,0 +1,10 @@
+# This is a simple guide to install pihole using docker
+sudo docker run -dit \
+--name pihole \
+-p 53:53/tcp -p 53:53/udp \
+-p 80:80 \
+-p 443:443 \
+-e TZ="America/New_York" \
+-v "$(pwd)/etc-pihole/:/etc/pihole/" \
+-v "$(pwd)/etc-dnsmasq.d/:/etc/dnsmasq.d/" \
+pihole/pihole:latest
