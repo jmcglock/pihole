@@ -38,7 +38,7 @@
 @@||simplelogin.io^
 @@||soundcloud.com^
 @@||spotify.com^
-@@||typekit.net
+@@||typekit.net^
 @@||ubuntu.com^
 @@||ui.com^
 @@||urbanairship.com^
