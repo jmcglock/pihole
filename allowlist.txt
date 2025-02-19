@@ -39,6 +39,7 @@
 @@||soundcloud.com^
 @@||spotify.com^
 @@||typekit.net^
+@@||tesla.services^
 @@||ubuntu.com^
 @@||ui.com^
 @@||urbanairship.com^
