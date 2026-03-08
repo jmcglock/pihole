@@ -4,15 +4,13 @@
 # ██   ██║██║╚██╔╝██║██║     ██║   ██║██║     ██║   ██║██║     ██╔═██╗ 
 # ╚█████╔╝██║ ╚═╝ ██║╚██████╗╚██████╔╝███████╗╚██████╔╝╚██████╗██║  ██╗
 # ╚════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝
-# DNS Allowlist for Adguard Home
+# DNS Allowlist for Pi-hole
 @@||akamai.net^
-@@||ads-fa-darwin.hulustream.com^
 @@||amp-api-edge.apps.apple.com^
 @@||amp-api-search-edge.apps.apple.com^
 @@||apple.com^
 @@||cloudflare.com^
 @@||dcf.espn.com^
-@@||demdex.net^
 @@||discordapp.com^
 @@||espncdn.com^
 @@||fonts.gstatic.com^
@@ -24,7 +22,6 @@
 @@||googleapis.com^
 @@||graph.facebook.com^
 @@||graph.instagram.com^
-@@||hulu.hb-api.omtrdc.net^
 @@||i.instagram.com^
 @@||intuit.com^
 @@||megaphone.fm^
@@ -32,7 +29,6 @@
 @@||nbcsports.com^
 @@||nerdfonts.com^
 @@||nextdns.io^
-@@||omtrdc.net^
 @@||peacocktv.com^
 @@||pinimg.com^
 @@||rancher.io^
@@ -48,7 +44,6 @@
 @@||typekit.net^
 @@||ubuntu.com^
 @@||ui.com^
-@@||urbanairship.com^
 @@||visualstudio.com^
 @@||windows.com^
 @@||windowsupdate.com^
