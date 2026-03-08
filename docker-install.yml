@@ -7,4 +7,4 @@ sudo docker run -dit \
 -e TZ="America/New_York" \
 -v "$(pwd)/etc-pihole/:/etc/pihole/" \
 -v "$(pwd)/etc-dnsmasq.d/:/etc/dnsmasq.d/" \
-pihole/pihole:latest
+pihole/pihole:2026.02.0

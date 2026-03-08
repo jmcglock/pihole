@@ -4,7 +4,7 @@
 # ██   ██║██║╚██╔╝██║██║     ██║   ██║██║     ██║   ██║██║     ██╔═██╗ 
 # ╚█████╔╝██║ ╚═╝ ██║╚██████╗╚██████╔╝███████╗╚██████╔╝╚██████╗██║  ██╗
 # ╚════╝ ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝
-# DNS Blocklist for Adguard Home
+# DNS Blocklist for Pi-hole
 ||ad.doubleclick.net^
 ||adc3-launch.adcolony.com^
 ||adcolony.com^
@@ -46,6 +46,7 @@
 ||data.mistat.xiaomi.com^
 ||doubleclick.net^
 ||events.hotjar.io^
+||events.reddit.com^
 ||events3alt.adcolony.com^
 ||globalapi.ad.xiaomi.com^
 ||google-analytics.com^
@@ -65,6 +66,7 @@
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||pixel.facebook.com^
+||pixel.linkedin.com^
 ||samsung-com.112.2o7.net^
 ||samsungads.com^
 ||script.hotjar.com^
@@ -78,6 +80,9 @@
 ||stats.g.doubleclick.net^
 ||surveys.hotjar.com^
 ||tools.mouseflow.com^
+||telemetry.microsoft.com^
 ||tr.iadsdk.apple.com^
+||tr.snapchat.com^
+||vortex.data.microsoft.com^
 ||weather-analytics-events.apple.com^
 ||wd.adcolony.com^
